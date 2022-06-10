@@ -1,0 +1,9 @@
+body {
+    display: flex;
+    justify-content: center;
+}
+
+.damage_calculator {
+    width: 500px;
+    height: 300px;
+}
